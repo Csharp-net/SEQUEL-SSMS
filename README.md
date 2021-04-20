@@ -1,1 +1,1 @@
-# SEQUEL-SSMS
+# SQL-SSMS
