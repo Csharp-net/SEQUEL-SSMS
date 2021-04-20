@@ -1,0 +1,8 @@
+1 .c#.net
+   LINQ,TPL,async,await
+2 .ADO.Net
+3 .Net core
+4 Asp.net
+5 MVC
+6.Front end technologies React/Angular/ APIS
+7.Azure -serverless application
